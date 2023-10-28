@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bookcabvaranasi.in/</loc>
+  <lastmod>2022-11-03T14:07:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bookcabvaranasi.in/index.html</loc>
+  <lastmod>2022-11-03T14:07:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bookcabvaranasi.in/about.html</loc>
+  <lastmod>2022-11-03T14:06:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bookcabvaranasi.in/tour.html</loc>
+  <lastmod>2022-11-03T14:07:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bookcabvaranasi.in/taxi.html</loc>
+  <lastmod>2022-11-03T14:07:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bookcabvaranasi.in/airport.html</loc>
+  <lastmod>2022-11-03T14:06:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bookcabvaranasi.in/contact.html</loc>
+  <lastmod>2022-11-03T14:06:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
